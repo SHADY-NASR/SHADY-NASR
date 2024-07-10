@@ -24,13 +24,17 @@ Welcome to my personal GitHub profile!
 
 ## About Me
 
-I have a strong background in programming and am proficient in using code. I am also specialized in networking and currently studying network security, aiming to become a cybersecurity expert.
+I have a strong background in programming and am proficient in using code. I am also specialized in networking and currently studying network security, going to be a Red Teamer expert.
 
 ## My Skills
 
 - **Programming Languages:** Python, C++, Java
 - **Web Technologies:** PHP, Database, HTML, CSS
-- **Development Tools:** Git, Docker, VS Code
+- **Development Tools:** Git , VS Code , Packet Tracer , Linux Terminal, Linux tools 
+
+## Courses Completed
+
+Here is the updated list of courses completed with **OSEP** removed:
 
 ## Courses Completed
 
@@ -38,4 +42,5 @@ I have a strong background in programming and am proficient in using code. I am 
 - **CCNP**: Cisco Certified Network Professional
 - **CSMA**: Certified Security Management Associate
 - **CEH**: Certified Ethical Hacker
-
+- **OSCP**: Offensive Security Certified Professional
+- **CRTP/E**: Certified Red Team Professional/Expert
