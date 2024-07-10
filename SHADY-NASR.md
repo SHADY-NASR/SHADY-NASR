@@ -32,9 +32,6 @@ I have a strong background in programming and am proficient in using code. I am 
 - **Web Technologies:** PHP, Database, HTML, CSS
 - **Development Tools:** Git , VS Code , Packet Tracer , Linux Terminal, Linux tools 
 
-## Courses Completed
-
-Here is the updated list of courses completed with **OSEP** removed:
 
 ## Courses Completed
 
